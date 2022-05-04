@@ -15,6 +15,11 @@
     grid-area: prof-pic; 
 }
 
+#profilePic {
+    width: 100%;
+    height: auto;
+}
+
 .prof-info { 
     grid-area: prof-info; 
 }
